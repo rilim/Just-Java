@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Kavos užsakymas</string>
+    <string name="chocolate">Šokoladas</string>
+    <string name="email_subject">JustJava užsakymas <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="name">Vardas</string>
+    <string name="order">Užsakyti</string>
+    <string name="order_summary_chocolate">Pridėti šokolado? </string>
+    <string name="order_summary_cream">Pridėti plaktos grietinėlės? </string>
+    <string name="order_summary_name">Vardas: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+    <string name="order_summary_quantity">Kiekis: <xliff:g id="quantity" example="1">%d</xliff:g></string>
+    <string name="order_summary_total">Iš viso: <xliff:g id="price" example="5">%s</xliff:g></string>
+    <string name="quantity">Kiekis</string>
+    <string name="thank_you">Ačiū!</string>
+    <string name="toast_less">Negalima užsakyti mažiau, nei 1 puodelį kavos</string>
+    <string name="toast_more">Negalima užsakyti daugiau, kaip 100 puodelių kavos</string>
+    <string name="toppings">Priedai</string>
+    <string name="whipped_cream">Plakta grietinėlė</string>
+    <string name="yes">Taip</string>
+    <string name="no">Ne</string>
+</resources>
